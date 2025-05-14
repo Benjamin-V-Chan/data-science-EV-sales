@@ -78,3 +78,24 @@ project-root/
    python scripts/07_visualization_reports.py
    ```
 
+## Requirements
+
+The project uses the following Python packages:
+
+* pandas
+* numpy
+* matplotlib
+* scikit-learn
+* joblib
+
+Install all dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Acknowledgments
+
+**Dataset Name:** Electric Vehicle (EV) Sales and Adoption 🌍🚗⚡
+**Dataset Author:** Rameez Meerasahib
+**Dataset Source:** [https://www.kaggle.com/datasets/rameezmeerasahib/electric-vehicle-ev-sales-and-adoption](https://www.kaggle.com/datasets/rameezmeerasahib/electric-vehicle-ev-sales-and-adoption)
